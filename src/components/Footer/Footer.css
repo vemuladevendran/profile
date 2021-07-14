@@ -1,1 +1,9 @@
-.Footer {}
+.Footer {
+    background-color: #0c0c0d;
+    padding: 2rem;
+}
+
+.footer-links {
+    color: white;
+    margin: 0 10px;
+}

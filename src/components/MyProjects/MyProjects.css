@@ -1,0 +1,25 @@
+.project-description {
+    padding: 0 10%;
+    font-size: 18px;
+    line-height: 2rem;
+    background-color: #373737;
+}
+
+.project-description a {
+    color: #559184;
+}
+
+.git-link-btn {
+    text-decoration: none;
+    color: black;
+    padding: 7px 30px;
+    border: 1px solid black;
+}
+
+.git-link-btn:hover {
+    color: white;
+    background-color: black;
+}
+
+
+

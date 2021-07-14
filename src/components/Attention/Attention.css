@@ -1,0 +1,19 @@
+
+.Attention {
+    background-image: url('http://localhost:3000/assets/background-1.webp');
+    padding: 3rem;
+}
+
+.eye-img {
+    width: 278px;
+    height: 278px;
+}
+
+
+.social-icons {
+    width: 3rem;
+    height: 3rem;
+    margin: 0 1rem;
+    border-radius: 1rem;
+}
+
